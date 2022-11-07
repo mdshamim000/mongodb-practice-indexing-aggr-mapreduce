@@ -1,6 +1,6 @@
 # mongodb-practice-indexing-aggr-mapreduce
 
-## Just a Basic Operation of MongoDB
+## Just few Basic operations of MongoDB
 ### To understand Indexing, Aggregation, and Map reduce with demo data
 
 
